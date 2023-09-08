@@ -1,4 +1,5 @@
-# WeatherRegimes
+# Application of three clustering methods for the identification of Weather Regimes over the Euro-North Atlantic Region
+
 Python code to compute Euro-North Atlantic Weather Regimes using ECMWF re-analysis ERA-40 daily mean geopotential height [m] at 500 hPa as input data (NetCDF format).
 A useful dataset to test the code is available for ERA-5 re-analysis at https://climate.copernicus.eu/climate-reanalysis
 
