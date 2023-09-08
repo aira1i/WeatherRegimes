@@ -14,7 +14,7 @@ Then the clustering on the EOFs is done with three different clustering methods:
 - Self-organizing map, using minisom (https://github.com/JustGlowing/minisom)
 
 After that we compute the Weather Regimes, associating the centroids of the 4 clusters to the calculated EOFs.
-For the visualization of the regimes we use Cartopy package (https://pypi.org/project/Cartopy/) and the function match_pc_sets tanke from the ClimTool library 
+For the visualization of the regimes we use Cartopy package (https://pypi.org/project/Cartopy/) and the function match_pc_sets, that helps during the comparison between patterns derived from different clustering algorithms. This function is part of the ClimTool library 
 (follow the steps explained in https://github.com/fedef17/ClimTools for the installation of the library and the needed environment).
 
 
